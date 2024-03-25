@@ -1,4 +1,13 @@
-### Hi there 👋
+# About Me 
+My name is Lena\
+I am 22 years old\
+I'm an apprentice and am currently learning C#.
+
+
+
+**I am a big fan of space and when I'm not coding, eating or sleeping I like doing space puzzles and reading.**
+
+<!-- ![milchstrasse](https://github.com/Lena67/Lena67/assets/150011093/009a9507-d880-4934-a4af-fb3e7f275d31) -->
 
 <!--
 **Lena67/Lena67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
